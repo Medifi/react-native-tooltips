@@ -6,12 +6,12 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNTooltips
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/prscX/react-native-tooltips"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/author/RNTooltips.git", :tag => "master" }
+  s.source       = { :git => "https://github.com/Medifi/RNTooltips.git", :tag => "master" }
   s.source_files  = "RNTooltips/**/*.{h,m}"
   s.requires_arc = true
 
